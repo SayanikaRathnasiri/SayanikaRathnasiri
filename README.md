@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayanika Rathnasiri</h1>
-<h3 align="center">Web Developer | Undergraduate | BICT | University of Colombo</h3>
+<h3 align="center">UI/UX Designer | Web Developer | Undergraduate | BICT | University of Colombo</h3>
 <img align="right" alt="Cording" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" /> 
 
 - 🌱 I’m currently learning **React**
