@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sayanikarathnasiri@gmail.com**
 
-- 📄 Know about my experiences(Resume) [https://drive.google.com/file/d/1zE94PnaZ2mn4IrpFSuDhcgBeLDnvr_u8/view?usp=sharing](https://drive.google.com/file/d/1zE94PnaZ2mn4IrpFSuDhcgBeLDnvr_u8/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zE94PnaZ2mn4IrpFSuDhcgBeLDnvr_u8/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny**
 
