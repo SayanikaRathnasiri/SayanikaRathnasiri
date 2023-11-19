@@ -7,17 +7,17 @@
 
 - 📫 How to reach me **sayanikarathnasiri@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zE94PnaZ2mn4IrpFSuDhcgBeLDnvr_u8/view?usp=sharing](https://drive.google.com/file/d/1zE94PnaZ2mn4IrpFSuDhcgBeLDnvr_u8/view?usp=sharing)
+- 📄 Know about my experiences(Resume) [https://drive.google.com/file/d/1zE94PnaZ2mn4IrpFSuDhcgBeLDnvr_u8/view?usp=sharing](https://drive.google.com/file/d/1zE94PnaZ2mn4IrpFSuDhcgBeLDnvr_u8/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.behance.net/sayanikrathnas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.behance.net/sayanikrathnas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/sayanika-rathnasiri01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sayanika-rathnasiri01" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sayanika rathnasiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sayanika rathnasiri" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/sayanika_rathnasiri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sayanika_rathnasiri/" height="30" width="40" /></a>
-<a href="https://dribbble.com/sayanika rathnasiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sayanika rathnasiri" height="30" width="40" /></a>
-<a href="https://www.behance.net/sayanika rathnasiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sayanika rathnasiri" height="30" width="40" /></a>
+<a href="https://dribbble.com/https://dribbble.com/sayanikarathnasiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/sayanikarathnasiri" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/sayanikrathnas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/sayanikrathnas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayanikarathnasiri&show_icons=true&locale=en" alt="sayanikarathnasiri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayanikarathnasiri&" alt="sayanikarathnasiri" /></p>
-
