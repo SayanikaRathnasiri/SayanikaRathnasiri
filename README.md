@@ -2,6 +2,7 @@
 <h3 align="center">UI/UX Designer | Web Developer | BICT Undergraduate | University of Colombo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayanikarathnasiri&label=Profile%20views&color=0e75b6&style=flat" alt="sayanikarathnasiri" /> </p>
+<img align="right" alt="Cording" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 - 🌱 I’m currently learning **UI/UX Designing**
 
